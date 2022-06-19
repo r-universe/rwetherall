@@ -1,0 +1,10 @@
+[
+  {
+    "package": "alfr",
+    "oncran": true
+  },
+  {
+    "package": "memofunc",
+    "oncran": true
+  }
+]
