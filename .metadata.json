@@ -1,10 +1,10 @@
 [
   {
-    "package": "alfr",
+    "package": "memofunc",
     "oncran": true
   },
   {
-    "package": "memofunc",
+    "package": "alfr",
     "oncran": true
   }
 ]
